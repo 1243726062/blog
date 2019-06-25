@@ -1,0 +1,3 @@
+FLASK_APP=bluelog
+FLASK_ENV=development
+FLASK_PORT=5005
